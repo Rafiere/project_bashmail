@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Instructions: 
 
 if [ "$1" = "--help" ]; then
